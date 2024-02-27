@@ -1,4 +1,7 @@
 Content for file.txt
+<<<<<<< HEAD
 
 
 hey how are ypou kjdchjb
+=======
+>>>>>>> feature-branch
